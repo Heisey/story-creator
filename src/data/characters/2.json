@@ -1,0 +1,65 @@
+
+{
+  "id": 2,
+  "name": "Mia",
+  "age": 10,
+  "role": "Ryker's Best Friend",
+  "personality": {
+    "traits": ["cautious", "loyal", "thoughtful", "supportive"],
+    "strengths": ["good listener", "attentive", "patient"],
+    "weaknesses": ["overly cautious", "sometimes doubtful", "gets scared easily"]
+  },
+  "physical_appearance": {
+    "hair_color": "blonde",
+    "hair_style": "long, usually in a ponytail",
+    "eye_color": "green",
+    "height": "average for her age",
+    "clothing": [
+      "pink jacket",
+      "leggings",
+      "sneakers"
+    ],
+    "accessories": [
+      "small backpack",
+      "friendship bracelet (matching with Ryker)"
+    ]
+  },
+  "skills": {
+    "research": "good at looking up information and remembering details",
+    "organization": "keeps notes and organizes clues for Ryker",
+    "empathy": "understands people’s feelings and is very supportive"
+  },
+  "backstory": {
+    "family": {
+      "parents": "Mia's parents are protective and worry about her safety.",
+      "siblings": "An older brother who often teases her for being scared of small things."
+    },
+    "hobbies": ["reading mystery books", "drawing", "helping Ryker with cases"],
+    "origin_story": "Mia became friends with Ryker after he helped her find a missing book, and they've been inseparable since."
+  },
+  "motivations": {
+    "goal": "Help Ryker solve mysteries while making sure he stays safe.",
+    "core_belief": "Everyone deserves a second chance.",
+    "values": ["friendship", "trust", "safety"]
+  },
+  "dialogue_style": {
+    "voice": "soft-spoken, caring, and thoughtful",
+    "common_phrases": [
+      "Are you sure this is a good idea, Ryker?",
+      "Let’s think this through before we jump to conclusions.",
+      "I believe in you, Ryker!"
+    ],
+    "tone": "cautious but encouraging",
+    "favorite_words": ["careful", "maybe", "trust", "friend"]
+  },
+  "special_items": [
+    {
+      "item": "notebook",
+      "description": "A small notebook where Mia keeps track of clues and thoughts during investigations."
+    },
+    {
+      "item": "friendship bracelet",
+      "description": "A bracelet that matches with Ryker's, symbolizing their close friendship."
+    }
+  ]
+}

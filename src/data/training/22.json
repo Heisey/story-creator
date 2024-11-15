@@ -1,0 +1,205 @@
+{
+  "title": "Super Detective Kid – A child solves mini-mysteries in their neighborhood.",
+  "story": [
+    {
+      "input": "Create a comic book panel with: Setting: Neighborhood street, Character Action: A child named Alex with a magnifying glass inspects a mysterious set of footprints, Dialogue: 'These footprints are fresh... but where do they lead?', Narration: 'Alex, the neighborhood detective, was always on the lookout for clues.'",
+      "output": {
+        "Panel Type": "Medium",
+        "Setting": "A neighborhood street with a trail of footprints leading off into the distance.",
+        "Character Action": "Alex kneels down, inspecting the footprints with a magnifying glass.",
+        "Dialogue": "'These footprints are fresh... but where do they lead?'",
+        "Narration": "Alex, the neighborhood detective, was always on the lookout for clues."
+      }
+    },
+    {
+      "input": "Create a comic book panel with: Setting: Backyard fence, Character Action: Alex peers over the fence into a neighbor's backyard, Dialogue: 'I think they went this way!', Narration: 'The footprints led Alex to the neighbor's yard.'",
+      "output": {
+        "Panel Type": "Wide",
+        "Setting": "A backyard with a tall fence and bushes on the other side.",
+        "Character Action": "Alex stands on tiptoes, peering over the fence.",
+        "Dialogue": "'I think they went this way!'",
+        "Narration": "The footprints led Alex to the neighbor's yard."
+      }
+    },
+    {
+      "input": "Create a comic book panel with: Setting: Backyard, Character Action: Alex climbs over the fence, Dialogue: 'This mystery is too good to pass up!', Narration: 'Alex was always ready to take risks for a good mystery.'",
+      "output": {
+        "Panel Type": "Medium",
+        "Setting": "A backyard with scattered toys and a garden.",
+        "Character Action": "Alex climbs carefully over the fence, determined.",
+        "Dialogue": "'This mystery is too good to pass up!'",
+        "Narration": "Alex was always ready to take risks for a good mystery."
+      }
+    },
+    {
+      "input": "Create a comic book panel with: Setting: Garden, Character Action: Alex spots a cat with a shiny object in its mouth, Dialogue: 'Hey! What do you have there?', Narration: 'The culprit was closer than Alex expected.'",
+      "output": {
+        "Panel Type": "Close-Up",
+        "Setting": "A garden filled with colorful flowers and a sneaky cat.",
+        "Character Action": "Alex points towards the cat, who looks back mischievously.",
+        "Dialogue": "'Hey! What do you have there?'",
+        "Narration": "The culprit was closer than Alex expected."
+      }
+    },
+    {
+      "input": "Create a comic book panel with: Setting: Garden chase, Character Action: Alex chases the cat, Dialogue: 'Come back here, kitty!', Narration: 'The chase was on.'",
+      "output": {
+        "Panel Type": "Wide",
+        "Setting": "The garden with Alex running after the cat.",
+        "Character Action": "Alex dashes through the garden, the cat sprinting ahead.",
+        "Dialogue": "'Come back here, kitty!'",
+        "Narration": "The chase was on."
+      }
+    },
+    {
+      "input": "Create a comic book panel with: Setting: Garden shed, Character Action: The cat slips into a small shed, Dialogue: 'Gotcha now!', Narration: 'The cat thought it could hide, but Alex was determined.'",
+      "output": {
+        "Panel Type": "Medium",
+        "Setting": "A small garden shed with the door slightly ajar.",
+        "Character Action": "Alex reaches for the shed door, smiling confidently.",
+        "Dialogue": "'Gotcha now!'",
+        "Narration": "The cat thought it could hide, but Alex was determined."
+      }
+    },
+    {
+      "input": "Create a comic book panel with: Setting: Inside shed, Character Action: Alex opens the door to reveal the cat sitting on a stack of boxes, Dialogue: 'There you are!', Narration: 'The shed was full of surprises.'",
+      "output": {
+        "Panel Type": "Medium",
+        "Setting": "Inside the shed, cluttered with boxes and tools.",
+        "Character Action": "Alex stands in the doorway, looking at the cat.",
+        "Dialogue": "'There you are!'",
+        "Narration": "The shed was full of surprises."
+      }
+    },
+    {
+      "input": "Create a comic book panel with: Setting: Shed interior, Character Action: Alex notices something shiny behind the cat, Dialogue: 'What's that behind you?', Narration: 'It seemed the cat was guarding something important.'",
+      "output": {
+        "Panel Type": "Close-Up",
+        "Setting": "The cat sitting atop the boxes with something shiny peeking out.",
+        "Character Action": "Alex leans in, curious about the shiny object.",
+        "Dialogue": "'What's that behind you?'",
+        "Narration": "It seemed the cat was guarding something important."
+      }
+    },
+    {
+      "input": "Create a comic book panel with: Setting: Shed interior, Character Action: Alex reaches behind the cat and pulls out a shiny bracelet, Dialogue: 'Aha! A missing bracelet!', Narration: 'The mystery was starting to unravel.'",
+      "output": {
+        "Panel Type": "Medium",
+        "Setting": "The shed with Alex holding up a shiny bracelet.",
+        "Character Action": "Alex looks triumphant, holding the bracelet up high.",
+        "Dialogue": "'Aha! A missing bracelet!'",
+        "Narration": "The mystery was starting to unravel."
+      }
+    },
+    {
+      "input": "Create a comic book panel with: Setting: Backyard, Character Action: Alex exits the shed, holding the bracelet, Dialogue: 'I need to return this to Mrs. Thompson.', Narration: 'Alex knew exactly who the bracelet belonged to.'",
+      "output": {
+        "Panel Type": "Wide",
+        "Setting": "The backyard with Alex walking out of the shed.",
+        "Character Action": "Alex holds the bracelet carefully, looking towards the neighbor's house.",
+        "Dialogue": "'I need to return this to Mrs. Thompson.'",
+        "Narration": "Alex knew exactly who the bracelet belonged to."
+      }
+    },
+    {
+      "input": "Create a comic book panel with: Setting: Mrs. Thompson's porch, Character Action: Alex rings the doorbell, holding the bracelet, Dialogue: 'Mrs. Thompson, I found your bracelet!', Narration: 'The case of the missing bracelet was coming to a close.'",
+      "output": {
+        "Panel Type": "Medium",
+        "Setting": "A cozy porch with a doorbell and a potted plant.",
+        "Character Action": "Alex stands at the door, holding up the bracelet.",
+        "Dialogue": "'Mrs. Thompson, I found your bracelet!'",
+        "Narration": "The case of the missing bracelet was coming to a close."
+      }
+    },
+    {
+      "input": "Create a comic book panel with: Setting: Mrs. Thompson's porch, Character Action: Mrs. Thompson opens the door, looking surprised and happy, Dialogue: 'Oh, Alex! You found it! Thank you so much!', Narration: 'Mrs. Thompson was overjoyed.'",
+      "output": {
+        "Panel Type": "Close-Up",
+        "Setting": "The porch with Mrs. Thompson standing in the doorway.",
+        "Character Action": "Mrs. Thompson smiles warmly, reaching out for the bracelet.",
+        "Dialogue": "'Oh, Alex! You found it! Thank you so much!'",
+        "Narration": "Mrs. Thompson was overjoyed."
+      }
+    },
+    {
+      "input": "Create a comic book panel with: Setting: Mrs. Thompson's living room, Character Action: Mrs. Thompson invites Alex inside, offering a plate of cookies, Dialogue: 'Come in, Alex. You deserve a treat!', Narration: 'Mrs. Thompson wanted to show her gratitude.'",
+      "output": {
+        "Panel Type": "Medium",
+        "Setting": "A cozy living room with a plate of cookies on a small table.",
+        "Character Action": "Mrs. Thompson gestures for Alex to come inside.",
+        "Dialogue": "'Come in, Alex. You deserve a treat!'",
+        "Narration": "Mrs. Thompson wanted to show her gratitude."
+      }
+    },
+    {
+      "input": "Create a comic book panel with: Setting: Living room, Character Action: Alex sits on the couch, enjoying a cookie, Dialogue: 'Thanks, Mrs. Thompson! These are delicious!', Narration: 'A little reward for a job well done.'",
+      "output": {
+        "Panel Type": "Medium",
+        "Setting": "The living room with Alex sitting on the couch, holding a cookie.",
+        "Character Action": "Alex smiles as they take a bite of the cookie.",
+        "Dialogue": "'Thanks, Mrs. Thompson! These are delicious!'",
+        "Narration": "A little reward for a job well done."
+      }
+    },
+    {
+      "input": "Create a comic book panel with: Setting: Mrs. Thompson's porch, Character Action: Alex waves goodbye as they leave, Dialogue: 'Let me know if you need any more detective work!', Narration: 'Alex was always ready for the next mystery.'",
+      "output": {
+        "Panel Type": "Wide",
+        "Setting": "The porch with Alex waving as they step down the stairs.",
+        "Character Action": "Alex turns back to wave at Mrs. Thompson.",
+        "Dialogue": "'Let me know if you need any more detective work!'",
+        "Narration": "Alex was always ready for the next mystery."
+      }
+    },
+    {
+      "input": "Create a comic book panel with: Setting: Neighborhood street, Character Action: Alex walks back home, Dialogue: 'I wonder what the next mystery will be...', Narration: 'There was always another adventure waiting.'",
+      "output": {
+        "Panel Type": "Wide",
+        "Setting": "The neighborhood street with houses and trees lining the road.",
+        "Character Action": "Alex walks down the street, smiling to themselves.",
+        "Dialogue": "'I wonder what the next mystery will be...'",
+        "Narration": "There was always another adventure waiting."
+      }
+    },
+    {
+      "input": "Create a comic book panel with: Setting: Park, Character Action: Alex sits on a park bench, thinking, Dialogue: 'Maybe I should check out the old treehouse. I heard strange noises there.', Narration: 'Alex had heard rumors about the treehouse.'",
+      "output": {
+        "Panel Type": "Medium",
+        "Setting": "A quiet park with a bench under a big tree.",
+        "Character Action": "Alex sits on the bench, looking thoughtful.",
+        "Dialogue": "'Maybe I should check out the old treehouse. I heard strange noises there.'",
+        "Narration": "Alex had heard rumors about the treehouse."
+      }
+    },
+    {
+      "input": "Create a comic book panel with: Setting: Treehouse, Character Action: Alex climbs up the ladder to the treehouse, Dialogue: 'Time to see what's really going on here.', Narration: 'The treehouse was known for being a bit spooky.'",
+      "output": {
+        "Panel Type": "Wide",
+        "Setting": "An old wooden treehouse with a ladder leading up.",
+        "Character Action": "Alex climbs the ladder, determined.",
+        "Dialogue": "'Time to see what's really going on here.'",
+        "Narration": "The treehouse was known for being a bit spooky."
+      }
+    },
+    {
+      "input": "Create a comic book panel with: Setting: Inside treehouse, Character Action: Alex finds an old map pinned to the wall, Dialogue: 'A treasure map? This just got interesting!', Narration: 'The map looked ancient and mysterious.'",
+      "output": {
+        "Panel Type": "Medium",
+        "Setting": "The inside of the treehouse with dusty furniture and an old map.",
+        "Character Action": "Alex examines the map pinned to the wall.",
+        "Dialogue": "'A treasure map? This just got interesting!'",
+        "Narration": "The map looked ancient and mysterious."
+      }
+    },
+    {
+      "input": "Create a comic book panel with: Setting: Treehouse, Character Action: Alex studies the map closely, Dialogue: 'Looks like it leads to the old oak tree...', Narration: 'The adventure was far from over.'",
+      "output": {
+        "Panel Type": "Close-Up",
+        "Setting": "The old map showing a path to the oak tree.",
+        "Character Action": "Alex traces the path on the map with their finger.",
+        "Dialogue": "'Looks like it leads to the old oak tree...'",
+        "Narration": "The adventure was far from over."
+      }
+    }
+  ]
+}

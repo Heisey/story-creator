@@ -1,0 +1,285 @@
+{
+  "title": "The Case of the Missing Homework – A student detective helps classmates find their lost homework.",
+  "story": [
+    {
+        "input": "Create a comic book panel with: Setting: busy school hallway, Character Action: Detective Max listens intently to a worried student, Dialogue: 'Max, I can't find my homework! I swear I left it in my backpack!', Narration: 'It was just another day at school... until homework started disappearing.'",
+        "output": {
+            "Panel Type": "Medium",
+            "Setting": "A busy school hallway with lockers lining the walls.",
+            "Character Action": "Detective Max, a young student, leans in to listen to a worried classmate.",
+            "Dialogue": "\"Max, I can't find my homework! I swear I left it in my backpack!\"",
+            "Narration": "It was just another day at school... until homework started disappearing."
+        }
+    },
+    {
+        "input": "Create a comic book panel with: Setting: classroom, Character Action: Max examines a student's open backpack with a magnifying glass, Dialogue: 'Hmm... no signs of tampering. This is strange...', Narration: 'Max begins his investigation, searching for clues.'",
+        "output": {
+            "Panel Type": "Close-Up",
+            "Setting": "A classroom with an open backpack on the desk.",
+            "Character Action": "Max examines the backpack closely with a magnifying glass.",
+            "Dialogue": "\"Hmm... no signs of tampering. This is strange...\"",
+            "Narration": "Max begins his investigation, searching for clues."
+        }
+    },
+    {
+        "input": "Create a comic book panel with: Setting: the school library, Character Action: Max discusses the case with the librarian, Dialogue: 'Have you seen anyone acting strange, Mrs. Potter?', Narration: 'Max seeks out additional clues from the librarian.'",
+        "output": {
+            "Panel Type": "Medium",
+            "Setting": "A quiet school library with bookshelves in the background.",
+            "Character Action": "Max talks to the librarian, looking hopeful.",
+            "Dialogue": "\"Have you seen anyone acting strange, Mrs. Potter?\"",
+            "Narration": "Max seeks out additional clues from the librarian."
+        }
+    },
+    {
+        "input": "Create a comic book panel with: Setting: classroom, Character Action: Max questions a group of students about their missing homework, Dialogue: 'Have any of you seen something suspicious?', Narration: 'The investigation continues as Max seeks new information.'",
+        "output": {
+            "Panel Type": "Wide",
+            "Setting": "A classroom with students gathered around Max.",
+            "Character Action": "Max faces a group of students, looking inquisitive.",
+            "Dialogue": "\"Have any of you seen something suspicious?\"",
+            "Narration": "The investigation continues as Max seeks new information."
+        }
+    },
+    {
+        "input": "Create a comic book panel with: Setting: school cafeteria, Character Action: Max follows a trail of crumpled papers on the floor, Dialogue: None, Narration: 'A trail of crumpled papers leads Max to the cafeteria.'",
+        "output": {
+            "Panel Type": "Wide",
+            "Setting": "A bustling cafeteria filled with students.",
+            "Character Action": "Max bends down to pick up a crumpled piece of paper.",
+            "Dialogue": "",
+            "Narration": "A trail of crumpled papers leads Max to the cafeteria."
+        }
+    },
+    {
+        "input": "Create a comic book panel with: Setting: under a cafeteria table, Character Action: Max finds crumpled sheets of paper, Dialogue: 'These look like homework sheets!', Narration: 'Max’s investigation takes a turn as he finds evidence.'",
+        "output": {
+            "Panel Type": "Close-Up",
+            "Setting": "Under a cafeteria table with papers scattered around.",
+            "Character Action": "Max picks up a crumpled homework sheet, examining it closely.",
+            "Dialogue": "\"These look like homework sheets!\"",
+            "Narration": "Max’s investigation takes a turn as he finds evidence."
+        }
+    },
+    {
+        "input": "Create a comic book panel with: Setting: school recycling bin, Character Action: Max pulls out a homework sheet from the bin, Dialogue: 'Looks like someone’s been hiding homework here!', Narration: 'Max discovers the recycling bin is full of crumpled homework.'",
+        "output": {
+            "Panel Type": "Close-Up",
+            "Setting": "A school recycling bin overflowing with papers.",
+            "Character Action": "Max pulls a crumpled homework sheet from the bin.",
+            "Dialogue": "\"Looks like someone’s been hiding homework here!\"",
+            "Narration": "Max discovers the recycling bin is full of crumpled homework."
+        }
+    },
+    {
+        "input": "Create a comic book panel with: Setting: school hallway, Character Action: Max talks to a group of students about the recycling bin, Dialogue: 'Has anyone seen anyone around the recycling bin?', Narration: 'Max tries to gather more information from witnesses.'",
+        "output": {
+            "Panel Type": "Medium",
+            "Setting": "A school hallway with lockers in the background.",
+            "Character Action": "Max addresses a group of students, asking questions.",
+            "Dialogue": "\"Has anyone seen anyone around the recycling bin?\"",
+            "Narration": "Max tries to gather more information from witnesses."
+        }
+    },
+    {
+        "input": "Create a comic book panel with: Setting: near a classroom, Character Action: Max questions a shy student who seems hesitant, Dialogue: 'I... I think I saw someone sneaking around there...', Narration: 'A new lead emerges as a student offers information.'",
+        "output": {
+            "Panel Type": "Close-Up",
+            "Setting": "Near a classroom with an open door in the background.",
+            "Character Action": "Max speaks to a shy student who looks nervous.",
+            "Dialogue": "\"I... I think I saw someone sneaking around there...\"",
+            "Narration": "A new lead emerges as a student offers information."
+        }
+    },
+    {
+        "input": "Create a comic book panel with: Setting: library corner, Character Action: Max flips through a library book with notes scrawled inside, Dialogue: 'Who would doodle on a library book?', Narration: 'Max finds strange notes written inside a library book.'",
+        "output": {
+            "Panel Type": "Close-Up",
+            "Setting": "A dusty library corner with an open book.",
+            "Character Action": "Max examines the pages of a book closely, spotting doodles and notes.",
+            "Dialogue": "\"Who would doodle on a library book?\"",
+            "Narration": "Max finds strange notes written inside a library book."
+        }
+    },
+    {
+        "input": "Create a comic book panel with: Setting: playground, Character Action: Max overhears two students whispering, Dialogue: 'Did you hear? Someone’s homework was found in the recycling bin!', Narration: 'Max catches a lead by eavesdropping.'",
+        "output": {
+            "Panel Type": "Medium",
+            "Setting": "A sunny playground with students playing.",
+            "Character Action": "Max leans against the wall, listening to two students talk.",
+            "Dialogue": "\"Did you hear? Someone’s homework was found in the recycling bin!\"",
+            "Narration": "Max catches a lead by eavesdropping."
+        }
+    },
+    {
+        "input": "Create a comic book panel with: Setting: near the school entrance, Character Action: Max talks to a student seen near the recycling bin, Dialogue: 'Did you see who was near the bin after lunch?', Narration: 'Max narrows down his suspects.'",
+        "output": {
+            "Panel Type": "Close-Up",
+            "Setting": "Near the school entrance with a door visible in the background.",
+            "Character Action": "Max speaks to a classmate with a questioning look.",
+            "Dialogue": "\"Did you see who was near the bin after lunch?\"",
+            "Narration": "Max narrows down his suspects."
+        }
+    },
+    {
+        "input": "Create a comic book panel with: Setting: school hallway, Character Action: Max discovers a trail of eraser shavings leading from the recycling bin, Dialogue: None, Narration: 'A new trail of eraser shavings provides another clue.'",
+        "output": {
+            "Panel Type": "Wide",
+            "Setting": "School hallway with lockers lining the walls.",
+            "Character Action": "Max follows a trail of eraser shavings on the floor.",
+            "Dialogue": "",
+            "Narration": "A new trail of eraser shavings provides another clue."
+        }
+    },
+    {
+        "input": "Create a comic book panel with: Setting: the hallway near the art room, Character Action: Max questions a student with smudged hands, Dialogue: 'Have you been near the recycling bin lately?', Narration: 'Max questions a new suspect.'",
+        "output": {
+            "Panel Type": "Medium",
+            "Setting": "Hallway near the art room with paint supplies visible.",
+            "Character Action": "Max stands with his hands on his hips, questioning a student.",
+            "Dialogue": "\"Have you been near the recycling bin lately?\"",
+            "Narration": "Max questions a new suspect."
+        }
+    }, {
+      "input": "Create a comic book panel with: Setting: in front of the art room, Character Action: Max notices a suspicious-looking student slipping away, Dialogue: 'Hey! Where are you going?', Narration: 'Max catches a glimpse of a potential suspect.'",
+      "output": {
+          "Panel Type": "Wide",
+          "Setting": "In front of the art room, with posters and paint supplies in the background.",
+          "Character Action": "Max stands alert, watching a student trying to walk away.",
+          "Dialogue": "\"Hey! Where are you going?\"",
+          "Narration": "Max catches a glimpse of a potential suspect."
+      }
+  },
+  {
+      "input": "Create a comic book panel with: Setting: outside near the school's side entrance, Character Action: Max confronts the suspicious student, Dialogue: 'Why were you sneaking around the recycling bin?', Narration: 'Max begins to piece together the puzzle.'",
+      "output": {
+          "Panel Type": "Medium",
+          "Setting": "Outside the school's side entrance with bushes nearby.",
+          "Character Action": "Max stands in front of the suspicious student, questioning them.",
+          "Dialogue": "\"Why were you sneaking around the recycling bin?\"",
+          "Narration": "Max begins to piece together the puzzle."
+      }
+  },
+  {
+      "input": "Create a comic book panel with: Setting: outside near the side entrance, Character Action: The student admits to seeing someone else at the bin, Dialogue: 'I... I saw someone drop a stack of papers there!', Narration: 'A new piece of information emerges.'",
+      "output": {
+          "Panel Type": "Close-Up",
+          "Setting": "Near the side entrance with bushes framing the scene.",
+          "Character Action": "The student, looking nervous, confesses to Max.",
+          "Dialogue": "\"I... I saw someone drop a stack of papers there!\"",
+          "Narration": "A new piece of information emerges."
+      }
+  },
+  {
+      "input": "Create a comic book panel with: Setting: back in the library, Character Action: Max is reviewing his notes, Dialogue: None, Narration: 'Max revisits the clues he’s gathered so far.'",
+      "output": {
+          "Panel Type": "Medium",
+          "Setting": "A quiet library with Max sitting at a table, his notes spread out before him.",
+          "Character Action": "Max is deep in thought, scanning his notes for connections.",
+          "Dialogue": "",
+          "Narration": "Max revisits the clues he’s gathered so far."
+      }
+  },
+  {
+      "input": "Create a comic book panel with: Setting: library, Character Action: Max realizes a pattern in the lost homework dates, Dialogue: 'All these missing papers were due on the same day!', Narration: 'A breakthrough in the case.'",
+      "output": {
+          "Panel Type": "Close-Up",
+          "Setting": "A library table covered with scattered papers.",
+          "Character Action": "Max points to dates on his notes with excitement.",
+          "Dialogue": "\"All these missing papers were due on the same day!\"",
+          "Narration": "A breakthrough in the case."
+      }
+  },
+  {
+      "input": "Create a comic book panel with: Setting: school hallway near a bulletin board, Character Action: Max searches the board for announcements, Dialogue: None, Narration: 'Max scans the bulletin board for any related events or clues.'",
+      "output": {
+          "Panel Type": "Wide",
+          "Setting": "A hallway with a large bulletin board filled with posters and announcements.",
+          "Character Action": "Max scans the board, looking for information.",
+          "Dialogue": "",
+          "Narration": "Max scans the bulletin board for any related events or clues."
+      }
+  },
+  {
+      "input": "Create a comic book panel with: Setting: school hallway, Character Action: Max finds a flyer about a science fair the same day the homework went missing, Dialogue: 'Could someone be trying to avoid turning in homework?', Narration: 'Max begins to understand the suspect’s motive.'",
+      "output": {
+          "Panel Type": "Close-Up",
+          "Setting": "Hallway bulletin board with a science fair flyer pinned to it.",
+          "Character Action": "Max points to the flyer, pondering the motive.",
+          "Dialogue": "\"Could someone be trying to avoid turning in homework?\"",
+          "Narration": "Max begins to understand the suspect’s motive."
+      }
+  },
+  {
+      "input": "Create a comic book panel with: Setting: art room, Character Action: Max questions an art student who was near the recycling bin, Dialogue: 'I didn’t mean to cause so much trouble...', Narration: 'Max confronts the student he suspects of dumping the homework.'",
+      "output": {
+          "Panel Type": "Medium",
+          "Setting": "Art room filled with painting supplies and easels.",
+          "Character Action": "Max looks sternly at the student, who appears guilty.",
+          "Dialogue": "\"I didn’t mean to cause so much trouble...\"",
+          "Narration": "Max confronts the student he suspects of dumping the homework."
+      }
+  },
+  {
+      "input": "Create a comic book panel with: Setting: art room, Character Action: The student admits to dumping the homework to delay the assignment, Dialogue: 'I was behind on my projects... I thought it would buy me some time.', Narration: 'The motive for the missing homework is revealed.'",
+      "output": {
+          "Panel Type": "Close-Up",
+          "Setting": "Art room with paint splatters and art supplies visible.",
+          "Character Action": "The student looks down, ashamed.",
+          "Dialogue": "\"I was behind on my projects... I thought it would buy me some time.\"",
+          "Narration": "The motive for the missing homework is revealed."
+      }
+  },
+  {
+      "input": "Create a comic book panel with: Setting: principal’s office, Character Action: Max explains the situation to the principal, Dialogue: 'It wasn’t an accident, but they understand it was wrong.', Narration: 'Max ensures the student is given a fair chance to explain.'",
+      "output": {
+          "Panel Type": "Wide",
+          "Setting": "Principal’s office with a large desk and chairs for visitors.",
+          "Character Action": "Max sits across from the principal, discussing the case.",
+          "Dialogue": "\"It wasn’t an accident, but they understand it was wrong.\"",
+          "Narration": "Max ensures the student is given a fair chance to explain."
+      }
+  },
+  {
+      "input": "Create a comic book panel with: Setting: school hallway, Character Action: The principal thanks Max for his detective work, Dialogue: 'You’ve done a great job, Max. We’re proud of you!', Narration: 'Max feels proud of solving another mystery.'",
+      "output": {
+          "Panel Type": "Medium",
+          "Setting": "School hallway near the principal's office.",
+          "Character Action": "The principal smiles at Max, offering praise.",
+          "Dialogue": "\"You’ve done a great job, Max. We’re proud of you!\"",
+          "Narration": "Max feels proud of solving another mystery."
+      }
+  },
+  {
+      "input": "Create a comic book panel with: Setting: outside school entrance, Character Action: Max is met by his friends, Dialogue: 'Max! You did it! You found out who took our homework!', Narration: 'Max’s friends are impressed with his detective skills.'",
+      "output": {
+          "Panel Type": "Wide",
+          "Setting": "Outside the school entrance with students gathered around.",
+          "Character Action": "Max stands proudly with his friends congratulating him.",
+          "Dialogue": "\"Max! You did it! You found out who took our homework!\"",
+          "Narration": "Max’s friends are impressed with his detective skills."
+      }
+  },
+  {
+      "input": "Create a comic book panel with: Setting: outside school, Character Action: Max reminds his friends to keep up with their assignments, Dialogue: 'Remember, it’s always better to ask for help than to hide the truth.', Narration: 'Max shares a valuable lesson with his friends.'",
+      "output": {
+          "Panel Type": "Medium",
+          "Setting": "Outside the school with trees in the background.",
+          "Character Action": "Max gestures to his friends, giving advice.",
+          "Dialogue": "\"Remember, it’s always better to ask for help than to hide the truth.\"",
+          "Narration": "Max shares a valuable lesson with his friends."
+      }
+  },
+  {
+      "input": "Create a comic book panel with: Setting: school playground, Character Action: Max and his friends laugh and play, Dialogue: None, Narration: 'With the case closed, Max can finally relax and enjoy the day.'",
+      "output": {
+          "Panel Type": "Wide",
+          "Setting": "A school playground filled with kids playing.",
+          "Character Action": "Max and his friends play and laugh, enjoying their free time.",
+          "Dialogue": "",
+          "Narration": "With the case closed, Max can finally relax and enjoy the day."
+      }
+  }
+  ]
+  
+}

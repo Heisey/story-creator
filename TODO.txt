@@ -1,0 +1,6 @@
+1 + define characters
+2 + choose model
+3 - set up environment
+4 - generate stories using model
+5 - refine story with prompts
+6 - adjust

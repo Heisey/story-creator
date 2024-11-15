@@ -1,0 +1,63 @@
+{
+  "id": 3,
+  "name": "Mr. Thompson",
+  "age": 45,
+  "role": "School Principal",
+  "personality": {
+    "traits": ["strict", "caring", "fair-minded", "observant"],
+    "strengths": ["organized", "good at mediating", "knowledgeable"],
+    "weaknesses": ["stubborn", "overly cautious", "sometimes intimidating"]
+  },
+  "physical_appearance": {
+    "hair_color": "graying brown",
+    "hair_style": "short and neat",
+    "eye_color": "brown",
+    "height": "tall",
+    "clothing": [
+      "formal suit and tie",
+      "glasses"
+    ],
+    "accessories": [
+      "school ID badge",
+      "clipboard"
+    ]
+  },
+  "skills": {
+    "conflict_resolution": "skilled at helping students resolve conflicts calmly",
+    "discipline": "enforces school rules fairly and consistently",
+    "observation": "notices small details around the school"
+  },
+  "backstory": {
+    "family": {
+      "spouse": "Mr. Thompson is married with two children.",
+      "children": "He has a son and a daughter, both in middle school."
+    },
+    "hobbies": ["reading history books", "gardening", "playing chess"],
+    "origin_story": "Mr. Thompson has been the school principal for ten years and cares deeply about the students’ well-being."
+  },
+  "motivations": {
+    "goal": "Keep the school safe and maintain a good environment for learning.",
+    "core_belief": "Discipline and fairness help create a respectful community.",
+    "values": ["integrity", "respect", "education"]
+  },
+  "dialogue_style": {
+    "voice": "firm, wise, and occasionally humorous",
+    "common_phrases": [
+      "Rules are made for a reason, kids.",
+      "Ryker, stay out of trouble!",
+      "I trust you, but don’t make me regret it."
+    ],
+    "tone": "authoritative but fair",
+    "favorite_words": ["responsibility", "safety", "rules", "learning"]
+  },
+  "special_items": [
+    {
+      "item": "clipboard",
+      "description": "Always carries his clipboard around school for notes and reminders."
+    },
+    {
+      "item": "school keys",
+      "description": "A set of keys that open various rooms around the school."
+    }
+  ]
+}

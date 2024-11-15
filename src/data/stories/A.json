@@ -1,0 +1,64 @@
+{
+  "structure": [
+    {
+      "part": "introduction",
+      "purpose": "Introduce the setting, main character ({{character_role}}), and the mystery or problem to be solved.",
+      "elements": {
+        "setting": {
+          "description": "Establishes where the story begins (e.g., {{location}} like school playground, bedroom, or hallway)."
+        },
+        "character_action": "{{character_name}} is doing something related to everyday life or {{character_role}} work (e.g., reading or observing something unusual).",
+        "plot": "A problem or mystery is introduced that catches {{character_name}}’s attention, often presented by a friend or neighbor needing help.",
+        "narration": "Sets the scene, often with a description of the mystery to hook readers."
+      }
+    },
+    {
+      "part": "investigation",
+      "purpose": "{{character_name}} begins investigating, gathering clues, interviewing suspects, and encountering challenges.",
+      "elements": {
+        "setting": {
+          "description": "The location shifts as {{character_name}} explores different places to gather clues (e.g., {{location}} like library, park, or alley)."
+        },
+        "character_action": "{{character_name}} actively investigates, searching for clues, making notes, or questioning people.",
+        "plot": "{{character_name}} finds clues, encounters red herrings, or faces small obstacles that make the mystery more intriguing.",
+        "narration": "Describes {{character_name}}’s thought process and excitement as they piece together information."
+      }
+    },
+    {
+      "part": "complications",
+      "purpose": "Introduce twists or challenges that make the mystery harder to solve and build suspense.",
+      "elements": {
+        "setting": {
+          "description": "Locations that add complexity or danger to the story, like a dark alley or locked room."
+        },
+        "character_action": "{{character_name}} faces a setback or finds a clue that contradicts previous findings.",
+        "plot": "{{character_name}} encounters unexpected twists (e.g., a suspect acting suspiciously, a clue disappearing) that make them question their deductions.",
+        "narration": "Emphasizes the tension and {{character_name}}’s determination to keep going despite the difficulties."
+      }
+    },
+    {
+      "part": "climax",
+      "purpose": "{{character_name}} finally solves the mystery by connecting all the clues and realizing the truth.",
+      "elements": {
+        "setting": {
+          "description": "A final setting where all clues come together, like a confrontation spot or discovery location (e.g., a storage room, office, or meeting point)."
+        },
+        "character_action": "{{character_name}} assembles the clues, confronts the suspect (if any), and explains their deduction.",
+        "plot": "{{character_name}} reveals the solution to the mystery, often surprising other characters.",
+        "narration": "Details {{character_name}}’s clever deduction and provides an explanation of how the mystery was solved."
+      }
+    },
+    {
+      "part": "resolution",
+      "purpose": "Wrap up the story, showing the impact of {{character_name}}’s actions and any lessons learned.",
+      "elements": {
+        "setting": {
+          "description": "A relaxed setting after the mystery is solved, often returning to a familiar location (e.g., cafeteria, home, or playground)."
+        },
+        "character_action": "{{character_name}} reflects on the mystery or celebrates solving it with friends.",
+        "plot": "The mystery is fully resolved, with any misunderstandings cleared up and lessons shared.",
+        "narration": "Ends with a moral or reflective comment from {{character_name}}, reinforcing the story’s theme or lesson."
+      }
+    }
+  ]
+}

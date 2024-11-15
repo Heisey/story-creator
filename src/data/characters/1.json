@@ -1,0 +1,10 @@
+{
+  "id": 1,
+  "name": "Ryker",
+  "role": "Kid Detective",
+  "age": 10,
+  "traits": ["curious", "brave", "clever"],
+  "backstory": "Ryker discovered his love for solving mysteries after helping find a lost cat in the neighborhood.",
+  "motivations": "Help people by solving mysteries around his school and neighborhood.",
+  "catchphrases": ["Aha! I think I found something!", "Don’t worry, I’ll solve this mystery!", "Let’s put the pieces together!"]
+}

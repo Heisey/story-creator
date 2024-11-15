@@ -1,0 +1,64 @@
+{
+  "id": 4,
+  "name": "Emma",
+  "age": 14,
+  "role": "Ryker's Older Sister",
+  "personality": {
+    "traits": ["protective", "smart", "witty", "supportive"],
+    "strengths": ["logical thinker", "quick-witted", "good with technology"],
+    "weaknesses": ["teases Ryker too much", "impatient", "can be skeptical"]
+  },
+  "physical_appearance": {
+    "hair_color": "brown",
+    "hair_style": "long and wavy",
+    "eye_color": "blue",
+    "height": "tall for her age",
+    "clothing": [
+      "hoodie",
+      "jeans",
+      "sneakers"
+    ],
+    "accessories": [
+      "earbuds",
+      "smartphone"
+    ]
+  },
+  "skills": {
+    "technology": "good with computers and enjoys coding",
+    "research": "knows how to find information online quickly",
+    "logical_reasoning": "can solve puzzles and riddles with ease"
+  },
+  "backstory": {
+    "family": {
+      "parents": "Emma lives with her parents and younger brother, Ryker.",
+      "brother": "Ryker, her younger brother, whom she loves but also teases often."
+    },
+    "hobbies": ["coding", "listening to music", "solving puzzles", "hanging out with friends"],
+    "origin_story": "Emma helps Ryker with his mysteries when he asks, though she finds some of his cases silly."
+  },
+  "motivations": {
+    "goal": "Help Ryker whenever he really needs it, though she acts reluctantly.",
+    "core_belief": "Family sticks together, no matter what.",
+    "values": ["family", "independence", "knowledge"]
+  },
+  "dialogue_style": {
+    "voice": "sarcastic, clever, and slightly teasing",
+    "common_phrases": [
+      "Come on, little detective.",
+      "You owe me for this one!",
+      "Let me show you how it’s really done."
+    ],
+    "tone": "friendly but teasing, with a touch of sarcasm",
+    "favorite_words": ["bro", "tech", "clues", "detective"]
+  },
+  "special_items": [
+    {
+      "item": "smartphone",
+      "description": "Uses her phone to look things up and sometimes takes pictures of clues for Ryker."
+    },
+    {
+      "item": "puzzle book",
+      "description": "Emma enjoys solving puzzles and always keeps this book nearby."
+    }
+  ]
+}
